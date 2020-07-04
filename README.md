@@ -1,2 +1,1 @@
-# BTE-Bot-Repository
-BTE Repository
+Repository
